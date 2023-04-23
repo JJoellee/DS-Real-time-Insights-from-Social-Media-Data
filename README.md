@@ -1,4 +1,4 @@
-#DS Real-time Insights from Social Media Data
+# DS Real-time Insights from Social Media Data
 
 In this project, I conducted an analysis of real-time Twitter data to better understand global and local trends using tweet volumes, hashtags, and user mentions. The data was sourced from Twitter's API and contained information on various trending topics and their associated tweet metadata.
 
